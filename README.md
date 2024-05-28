@@ -1,6 +1,4 @@
-# Smart Track Ware: Advanced Inventory Management System
-
-# Capstone-project-T5
+# Smart Track Ware: Advanced Inventory Management System.
 
 ## Project Overview
 
