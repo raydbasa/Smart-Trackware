@@ -67,6 +67,14 @@ The Streamlit app "Smart Track Ware" makes warehouse inventory management easier
     ```sh
     streamlit run final.py
     ```
+
+### Requirements
+Alternatively, you can install the required dependencies using the `requirements.txt` file:
+1. Install dependencies:
+    ```sh
+    pip install -r requirements.txt
+    ```
+    
 ## Future Work
 Future work will focus on enhancing the system's capabilities by classifying the products and providing real-time by connecting all live cameras in the warehouse to accurately count the incoming boxes. The data from the live cameras will be converted into Excel reports to simplify inventory management.
 
