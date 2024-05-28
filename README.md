@@ -49,12 +49,24 @@ The Streamlit app "Smart Track Ware" makes warehouse inventory management easier
 - It shows the total number of detected boxes and allows users to view the processed video within the app.
 
 ### To run our demo:
-1. `conda create --name myenv`
-2. `conda activate myenv`
-3. `conda install -c conda-forge streamlit opencv numpy tqdm`
-4. `pip install deep-sort-realtime ultralytics`
-5. `streamlit run final.py`
-
+1. Clone the repository:
+    ```sh
+    git clone https://github.com/raydbasa/Smart-Trackware.git
+    ```
+2. Create and activate a new environment:
+    ```sh
+    conda create --name myenv
+    conda activate myenv
+    ```
+3. Install the required dependencies:
+    ```sh
+    conda install -c conda-forge streamlit opencv numpy tqdm
+    pip install deep-sort-realtime ultralytics
+    ```
+4. Run the Streamlit app:
+    ```sh
+    streamlit run final.py
+    ```
 ## Future Work
 Future work will focus on enhancing the system's capabilities by classifying the products and providing real-time by connecting all live cameras in the warehouse to accurately count the incoming boxes. The data from the live cameras will be converted into Excel reports to simplify inventory management.
 
