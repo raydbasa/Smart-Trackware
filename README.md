@@ -18,7 +18,6 @@ The YOLOv8 (You Only Look Once) model was chosen for its state-of-the-art perfor
 1. **Data Preprocessing**: Images were labeled and split into training, validation, and test sets.
 2. **Model Training**: The YOLOv8 model was trained on the preprocessed dataset.
 3. **Evaluation**: The model's performance was evaluated using metrics such as accuracy, precision, and recall.
-![Training Batch]([images/train_batch1.jpg](https://images.unsplash.com/photo-1716155705161-fcf2e13da07a?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D))
 
 ## Results
 
