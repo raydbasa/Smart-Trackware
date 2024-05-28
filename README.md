@@ -1,4 +1,4 @@
-# Track Smart Ware:Efficient Inventory Management System
+# Smart Track Ware:Efficient Inventory Management System
 
 ## Problem Statement
 Efficient inventory management is critical for ensuring smooth warehouse operations and prompt order fulfillment. Traditional manual inventory procedures are often inefficient, error-prone, and labor-intensive, leading to delays, mistakes, and higher operational costs. These challenges necessitate a modern solution that can streamline processes, reduce errors, and enhance overall efficiency.
@@ -24,7 +24,7 @@ For more details about model architecture: [YOLOv8 on Ultralytics GitHub](https:
 
 ## Dataset We use
 
-We selected a dataset from Roboflow [YOLOv8 on Ultralytics GitHub](https://universe.roboflow.com/carboard-box/carboard-box/dataset/2) that includes images already labeled of cardboard boxes for object detection specifically for boxes. This dataset is essential for training and validating our computer vision system, which aims to detect, track, and count items. The dataset contains more than 9,000 images, providing a robust foundation for developing an accurate and reliable model.
+We selected a dataset from  [Roboflow](https://universe.roboflow.com/carboard-box/carboard-box/dataset/2) that includes images already labeled of cardboard boxes for object detection specifically for boxes. This dataset is essential for training and validating our computer vision system, which aims to detect, track, and count items. The dataset contains more than 9,000 images, providing a robust foundation for developing an accurate and reliable model.
 
 The images in the dataset feature cardboard boxes in various settings, orientations, and lighting conditions, simulating real-world warehouse environments. Each image is marked with bounding boxes that show where the cardboard boxes are located, ensuring that the model learns to recognize and localize these items effectively.
 
