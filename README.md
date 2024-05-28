@@ -35,8 +35,6 @@ The final results demonstrate that our system achieves a high accuracy of 95% in
 
 This project underscores the potential of advanced technologies to transform traditional warehouse operations, boosting productivity and customer satisfaction. By integrating computer vision into inventory management, businesses can achieve more efficient and reliable operations.
 
-## Installation
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/inventory-management-system.git
+
+
