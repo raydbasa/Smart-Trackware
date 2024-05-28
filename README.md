@@ -15,26 +15,12 @@ To tailor YOLOv8 for our specific needs, we fine-tuned the model on a labeled da
 
 By integrating YOLOv8 into the SmartTrack project, we aim to achieve highly effective box detection and management of inventory in warehouses. This integration will significantly improve efficiency and accuracy, reducing the reliance on manual labor. The ultimate goal is to transform traditional inventory management practices, enhancing operational productivity and customer satisfaction.
 
-## Tools We Use
-### Libraries
-- **ByteTrack**: Utilized for tracking detected objects over time.
-- **OpenCV**: Used for image and video processing tasks.
-- **Torch**: The deep learning library used to build and train the YOLOv8 model.
-
-### Build Model
-- **Colab Pro**: Employed for model training and experimentation.
-- **Ultralytics**: Provides the YOLOv8 framework and tools for implementation.
-
-### Demo
-- **Visual Studio Code**: The development environment for coding and testing.
-- **Streamlit**: Used to create a user-friendly interface for demonstrating the model's capabilities.
-
-## Model Section
+## Our Model
 We used YOLOv8 in its various configurations—YOLOv8n, YOLOv8m, YOLOv8l, and YOLOv8x—on different datasets to achieve the best results. In our initial dataset, which contained low-quality images, we got 85% accuracy for all models in object detection, and the model detected all square objects as a box. This impacted the models' performance. Ultimately, we found a high-quality dataset that greatly enhanced the models' accuracy, allowing YOLOv8x to identify objects with 95% accuracy. In the end, we chose YOLOv8x because it's larger and more complex, and typically offers higher accuracy.
 
 For more details about model architecture: [YOLOv8 on Ultralytics GitHub](https://github.com/ultralytics/ultralytics?tab=readme-ov-file)
 
-## Dataset
+## Dataset We use
 [YOLOv8 on Ultralytics GitHub](https://universe.roboflow.com/carboard-box/carboard-box/dataset/2)
 For this project, we selected a dataset from Roboflow that includes images already labeled of cardboard boxes for object detection specifically for boxes. This dataset is essential for training and validating our computer vision system, which aims to detect, track, and count items. The dataset contains more than 9,000 images, providing a robust foundation for developing an accurate and reliable model.
 
@@ -69,3 +55,18 @@ The Streamlit app "Smart Track Ware" makes warehouse inventory management easier
 
 ## Future Work
 Future work will focus on enhancing the system's capabilities by classifying the products and providing real-time by connecting all live cameras in the warehouse to accurately count the incoming boxes. The data from the live cameras will be converted into Excel reports to simplify inventory management.
+
+
+## Tools We Use
+### Libraries
+- **ByteTrack**: Utilized for tracking detected objects over time.
+- **OpenCV**: Used for image and video processing tasks.
+- **Torch**: The deep learning library used to build and train the YOLOv8 model.
+
+### Build Model
+- **Colab Pro**: Employed for model training and experimentation.
+- **Ultralytics**: Provides the YOLOv8 framework and tools for implementation.
+
+### Demo
+- **Visual Studio Code**: The development environment for coding and testing.
+- **Streamlit**: Used to create a user-friendly interface for demonstrating the model's capabilities.
