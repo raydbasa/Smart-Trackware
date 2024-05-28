@@ -20,9 +20,11 @@ We used YOLOv8 in its various configurations—YOLOv8n, YOLOv8m, YOLOv8l, and YO
 
 For more details about model architecture: [YOLOv8 on Ultralytics GitHub](https://github.com/ultralytics/ultralytics?tab=readme-ov-file)
 
+![Model Performance](images/train_batch1.jpg)
+
 ## Dataset We use
-[YOLOv8 on Ultralytics GitHub](https://universe.roboflow.com/carboard-box/carboard-box/dataset/2)
-For this project, we selected a dataset from Roboflow that includes images already labeled of cardboard boxes for object detection specifically for boxes. This dataset is essential for training and validating our computer vision system, which aims to detect, track, and count items. The dataset contains more than 9,000 images, providing a robust foundation for developing an accurate and reliable model.
+
+We selected a dataset from Roboflow [YOLOv8 on Ultralytics GitHub](https://universe.roboflow.com/carboard-box/carboard-box/dataset/2) that includes images already labeled of cardboard boxes for object detection specifically for boxes. This dataset is essential for training and validating our computer vision system, which aims to detect, track, and count items. The dataset contains more than 9,000 images, providing a robust foundation for developing an accurate and reliable model.
 
 The images in the dataset feature cardboard boxes in various settings, orientations, and lighting conditions, simulating real-world warehouse environments. Each image is marked with bounding boxes that show where the cardboard boxes are located, ensuring that the model learns to recognize and localize these items effectively.
 
