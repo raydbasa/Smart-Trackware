@@ -1,6 +1,6 @@
 # Capstone-project-T5
 
-# Smart Trackwaer Advanced Inventory Management System
+# Smart Trackwaer: Advanced Inventory Management System
 
 ## Project Overview
 
@@ -18,7 +18,7 @@ The YOLOv8 (You Only Look Once) model was chosen for its state-of-the-art perfor
 1. **Data Preprocessing**: Images were labeled and split into training, validation, and test sets.
 2. **Model Training**: The YOLOv8 model was trained on the preprocessed dataset.
 3. **Evaluation**: The model's performance was evaluated using metrics such as accuracy, precision, and recall.
-![Training Batch]([images/train_batch1.jpg](https://github.com/raydbasa/Capstone-project-T5/blob/main/train_batch1.jpg?raw=true))
+![Training Batch](images/train_batch1.jpg)
 
 ## Results
 
