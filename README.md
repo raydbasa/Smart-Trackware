@@ -47,6 +47,20 @@ The Streamlit app "Smart Track Ware" makes warehouse inventory management easier
 - The app uses its model for box detection and tracking.
 - The video is analyzed frame by frame, detecting and tracking boxes, and creating an output video with annotations and box IDs.
 - It shows the total number of detected boxes and allows users to view the processed video within the app.
+  
+### To Run Our Colab Notebook
+
+1. First, open the `Smart_TrackWare.ipynb` file.
+2. Then, click on "Open in Colab."
+
+### Requirements
+
+To install the required dependencies, use the `requirements.txt` file:
+
+1. Install dependencies:
+    ```sh
+    pip install -r requirements.txt
+    ```
 
 ### To run our demo:
 1. Clone the repository:
@@ -73,12 +87,7 @@ The Streamlit app "Smart Track Ware" makes warehouse inventory management easier
     streamlit run final.py
     ```
 
-### Requirements
-Alternatively, you can install the required dependencies using the `requirements.txt` file:
-1. Install dependencies:
-    ```sh
-    pip install -r requirements.txt
-    ```
+
     
 ## Future Work
 Future work will focus on enhancing the system's capabilities by classifying the products and providing real-time by connecting all live cameras in the warehouse to accurately count the incoming boxes. The data from the live cameras will be converted into Excel reports to simplify inventory management.
