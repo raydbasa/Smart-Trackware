@@ -1,4 +1,4 @@
-# Smart TrackWare:Inventory Management System
+# Smart Track Ware:Inventory Management System
 
 ## Problem Statement
 Efficient inventory management is critical for ensuring smooth warehouse operations and prompt order fulfillment. Traditional manual inventory procedures are often inefficient, error-prone, and labor-intensive, leading to delays, mistakes, and higher operational costs. These challenges necessitate a modern solution that can streamline processes, reduce errors, and enhance overall efficiency.
