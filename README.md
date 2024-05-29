@@ -110,7 +110,7 @@ Future work will focus on enhancing the system's capabilities by classifying the
 
 <!-- Placeholder for future video
 <video width="600" controls>
-  <source src="video/demo_Video.mp4" type="video/mp4">
+  <source src="video.md/demo_Video.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 -->
