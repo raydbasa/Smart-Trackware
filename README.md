@@ -84,7 +84,7 @@ To install the required dependencies, use the `requirements.txt` file:
     ```
 5. Run the Streamlit app:
     ```sh
-    streamlit run final.py
+    streamlit run app.py
     ```
 
 
