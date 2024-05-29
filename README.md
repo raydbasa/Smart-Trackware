@@ -53,17 +53,21 @@ The Streamlit app "Smart Track Ware" makes warehouse inventory management easier
     ```sh
     git clone https://github.com/raydbasa/Smart-Trackware.git
     ```
-2. Create and activate a new environment:
+2.view the pest model:
+```sh
+[drive](https://drive.google.com/file/d/1149lReYp0oRzCkeXYup-ERXzX6O1huRA/view?usp=drive_link)
+```    
+3. Create and activate a new environment:
     ```sh
     conda create --name myenv
     conda activate myenv
     ```
-3. Install the required dependencies:
+4. Install the required dependencies:
     ```sh
     conda install -c conda-forge streamlit opencv numpy tqdm
     pip install deep-sort-realtime ultralytics
     ```
-4. Run the Streamlit app:
+5. Run the Streamlit app:
     ```sh
     streamlit run app.py
     ```
