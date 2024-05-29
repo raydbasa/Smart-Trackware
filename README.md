@@ -53,7 +53,7 @@ The Streamlit app "Smart Track Ware" makes warehouse inventory management easier
     ```sh
     git clone https://github.com/raydbasa/Smart-Trackware.git
     ```
-2.view the pest model:
+2. the best model:
 
 [drive](https://drive.google.com/file/d/1149lReYp0oRzCkeXYup-ERXzX6O1huRA/view?usp=drive_link)
 
