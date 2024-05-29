@@ -108,6 +108,12 @@ Future work will focus on enhancing the system's capabilities by classifying the
 - **Visual Studio Code**: The development environment for coding and testing.
 - **Streamlit**: Used to create a user-friendly interface for demonstrating the model's capabilities.
 
+  
+<video width="600" controls>
+  <source src="https://github.com/raydbasa/Smart-Trackware/blob/31b011d91e0c6465b7f09c32caaa63ba0d7e27ec/demo_Video.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 
 <iframe width="560" height="315" src="raydbasa/Smart-Trackware" frameborder="0" allowfullscreen></iframe>
 
