@@ -1,0 +1,12 @@
+names:
+- '0'
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: boxdetect-fj8wk
+  url: https://universe.roboflow.com/ieeeroboticswsu/boxdetect-fj8wk/dataset/1
+  version: 1
+  workspace: ieeeroboticswsu
+test: ../test/images
+train: boxdetect-1/train/images
+val: boxdetect-1/valid/images
