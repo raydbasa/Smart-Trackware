@@ -54,7 +54,7 @@ The Streamlit app "Smart Track Ware" makes warehouse inventory management easier
     git clone https://github.com/raydbasa/Smart-Trackware.git
     ```
 2. Download the best model:
-```sh
+   ```sh
 [drive](https://drive.google.com/file/d/1149lReYp0oRzCkeXYup-ERXzX6O1huRA/view?usp=drive_link)
     ```
 3. Create and activate a new environment:
