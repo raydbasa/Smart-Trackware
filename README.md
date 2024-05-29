@@ -53,7 +53,7 @@ The Streamlit app "Smart Track Ware" makes warehouse inventory management easier
 1. First, open the `Smart_TrackWare.ipynb` file.
 2. Then, click on "Open in Colab."
 
-### Requirements
+#### Requirements
 
 To install the required dependencies, use the `requirements.txt` file:
 
