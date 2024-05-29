@@ -65,7 +65,7 @@ The Streamlit app "Smart Track Ware" makes warehouse inventory management easier
     ```
 4. Run the Streamlit app:
     ```sh
-    streamlit run final.py
+    streamlit run app.py
     ```
 
 ### Requirements
