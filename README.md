@@ -109,11 +109,7 @@ Future work will focus on enhancing the system's capabilities by classifying the
 - **Streamlit**: Used to create a user-friendly interface for demonstrating the model's capabilities.
 
   
-<video width="600" controls>
-  <source src="https://github.com/your-username/your-repo/raw/main/path-to-video/demo_Video.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
+To see a video tutorial on how to run the demo, click [here](https://your-username.github.io/your-repo/).
 
 
 
