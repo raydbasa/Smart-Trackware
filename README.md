@@ -110,10 +110,7 @@ Future work will focus on enhancing the system's capabilities by classifying the
 
   
 <div align="center">
-  <video width="720" height="480" controls>
-    <source src="demo_Video.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
+  <iframe width="720" height="480" src="demo_Video.mp4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 
