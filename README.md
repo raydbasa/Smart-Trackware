@@ -112,7 +112,7 @@ Future work will focus on enhancing the system's capabilities by classifying the
 
 ## Presentation
 
-[View Canva Presentation](https://www.canva.com/design/DAGF2JPUUcE/acaPcy8cbbwOd87PQbzLvg/edit)
+[View our Presentation](https://www.canva.com/design/DAGF2JPUUcE/acaPcy8cbbwOd87PQbzLvg/edit)
 
 
 
