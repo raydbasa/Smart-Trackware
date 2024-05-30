@@ -47,7 +47,9 @@ The Streamlit app "Smart Track Ware" makes warehouse inventory management easier
 - The app uses its model for box detection and tracking.
 - The video is analyzed frame by frame, detecting and tracking boxes, and creating an output video with annotations and box IDs.
 - It shows the total number of detected boxes and allows users to view the processed video within the app.
-  
+
+[Click here to download the our demo](https://github.com/raydbasa/Smart-Trackware/blob/f56c43a4bca16cb4dabf046ea4f826032c4beb75/demo_Video.mp4)
+
 ### To Run Our Colab Notebook
 
 1. First, open the `Smart_TrackWare.ipynb` file.
@@ -108,8 +110,8 @@ Future work will focus on enhancing the system's capabilities by classifying the
 - **Visual Studio Code**: The development environment for coding and testing.
 - **Streamlit**: Used to create a user-friendly interface for demonstrating the model's capabilities.
 
-  
-[Click here to download the video](https://github.com/raydbasa/Smart-Trackware/blob/f56c43a4bca16cb4dabf046ea4f826032c4beb75/demo_Video.mp4)
+[View Canva Presentation](https://www.canva.com/design/DAGF2JPUUcE/acaPcy8cbbwOd87PQbzLvg/edit)
+
 
 
 
