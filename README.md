@@ -109,8 +109,7 @@ Future work will focus on enhancing the system's capabilities by classifying the
 - **Streamlit**: Used to create a user-friendly interface for demonstrating the model's capabilities.
 
   
-<div align="center">
-  <iframe width="720" height="480" src="demo_Video.mp4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+![Video Demonstration](demo_Video.mp4)
+
 
 
