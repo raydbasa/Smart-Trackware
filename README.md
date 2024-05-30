@@ -109,7 +109,7 @@ Future work will focus on enhancing the system's capabilities by classifying the
 - **Streamlit**: Used to create a user-friendly interface for demonstrating the model's capabilities.
 
   
-[Click here to watch the video](demo_Video.mp4)
+[Click here to watch the video]([demo_Video.mp4](https://github.com/raydbasa/Smart-Trackware/blob/f56c43a4bca16cb4dabf046ea4f826032c4beb75/demo_Video.mp4))
 
 
 
